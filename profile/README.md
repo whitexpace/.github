@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## WhiteXpace
 <!--
 
 **Here are some ideas to get you started:**
@@ -12,4 +11,4 @@
 -->
 
 
-Before the project, before the code, before the idea even has a name — there's whitespace. That's where we start.
+Before the project, before the code, before the idea even has a name — there's WhiteSpace. That's where we start.
